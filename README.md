@@ -9,9 +9,6 @@ Welcome to our NASA Space Apps Challenge project! This repository contains the c
 - [Educational Game](#educational-game)
 - [Blockchain Reward System](#blockchain-reward-system)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
